@@ -14,3 +14,7 @@
 	path = libraries/master/dtreemap
 	url = https://github.com/ibm-js/dtreemap
 	branch = master
+[submodule "libraries/master/dcolor"]
+	path = libraries/master/dcolor
+	url = https://github.com/ibm-js/dcolor
+	branch = master
