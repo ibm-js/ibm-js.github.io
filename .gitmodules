@@ -1,0 +1,18 @@
+[submodule "libraries/master/deliteful"]
+	path = libraries/master/deliteful
+	url = https://github.com/ibm-js/deliteful.git
+	branch = master
+[submodule "libraries/master/dpointer"]
+	path = libraries/master/dpointer
+	url = https://github.com/ibm-js/dpointer.git
+	branch = master
+[submodule "libraries/master/dtreemap"]
+	path = libraries/master/dtreemap
+	url = https://github.com/ibm-js/dtreemap.git
+	branch = master
+[submodule "libraries/master/delite"]
+	path = libraries/master/delite
+	url = https://github.com/ibm-js/delite.git
+[submodule "libraries/master/dcolor"]
+	path = libraries/master/dcolor
+	url = https://github.com/ibm-js/dcolor.git
