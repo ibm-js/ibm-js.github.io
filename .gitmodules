@@ -18,3 +18,7 @@
 	path = libraries/master/dcolor
 	url = https://github.com/ibm-js/dcolor
 	branch = master
+[submodule "libraries/master/dcl"]
+	path = libraries/master/dcl
+	url = https://github.com/uhop/dcl.git
+	branch = master
