@@ -22,3 +22,6 @@
 	path = libraries/master/dcl
 	url = https://github.com/uhop/dcl.git
 	branch = master
+[submodule "libraries/master/dojo"]
+	path = libraries/master/dojo
+	url = https://github.com/dojo/dojo.git
