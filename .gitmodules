@@ -25,3 +25,6 @@
 [submodule "libraries/master/dojo"]
 	path = libraries/master/dojo
 	url = https://github.com/dojo/dojo.git
+[submodule "libraries/master/dstore"]
+	path = libraries/master/dstore
+	url = https://github.com/SitePen/dstore.git
