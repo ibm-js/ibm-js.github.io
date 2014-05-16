@@ -15,6 +15,11 @@
 				top: 0px;
 				left: 0px;
 				background-color: white;
+				background: linear-gradient(
+					white 0%,
+					white 33%,
+					#3b5d83 100%
+				);
 			}
 			.description {
 				margin-top: 8px;
@@ -94,6 +99,13 @@
 			@media screen and (max-width: 768px) {
 				.desktop {
 					display: none;
+				}
+				.header {
+					background: linear-gradient(
+							white 0%,
+							white 50%,
+							#3b5d83 100%
+					);
 				}
 				.left, .right {
 					width: 40% !important;
@@ -220,6 +232,18 @@
 					<div class="center"><span class="desktop">latest release: </span>no release</div>
 					<div class="center"><img src="http://bower.io/img/bower-logo.png" style="width: 24px; height: 24px"></div>
 					<a class="right" href="https://travis-ci.org/ibm-js/liaison"><img src="https://travis-ci.org/ibm-js/liaison.png?branch=master" alt="Build Status"></a>
+				</div>
+			</div></a>
+			<a href="http://github.com/ibm-js/dcolor"><div class="box">
+				<div class="title"><span class="project">dcolor</span></div>
+				<div class="description">
+					Smamm library for color manipulation and color models
+				</div>
+				<div class="clearfix">
+					<div class="left desktop">status: experimental</div>
+					<div class="center"><span class="desktop">latest release: </span>0.1.0-dev</div>
+					<div class="center"><img src="http://bower.io/img/bower-logo.png" style="width: 24px; height: 24px"></div>
+					<a class="right" href="https://travis-ci.org/ibm-js/dcolor"><img src="https://travis-ci.org/ibm-js/dcolor.png?branch=master" alt="Build Status"></a>
 				</div>
 			</div></a>
 			<a href="http://github.com/ibm-js"><div class="box">Additional Front End JavaScript projects can be found on ibm-js Github account</div></a>
