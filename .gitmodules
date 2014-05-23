@@ -28,12 +28,12 @@
 [submodule "libraries/master/dstore"]
 	path = libraries/master/dstore
 	url = https://github.com/SitePen/dstore.git
-[submodule "libraries/master/ecma402"]
-	path = libraries/master/ecma402
-	url = git@github.com:ibm-js/ecma402.git
 [submodule "libraries/master/requirejs-text"]
 	path = libraries/master/requirejs-text
 	url = https://github.com/requirejs/text.git
 [submodule "libraries/master/requirejs-dplugins"]
 	path = libraries/master/requirejs-dplugins
 	url = git@github.com:ibm-js/requirejs-dplugins.git
+[submodule "libraries/master/ecma402"]
+	path = libraries/master/ecma402
+	url = https://github.com/ibm-js/ecma402.git
