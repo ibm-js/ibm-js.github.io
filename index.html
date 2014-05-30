@@ -7,7 +7,11 @@
 				font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 				line-height: 1.4;
 				line-height: 1.6;
-				background-color: #3b5d83;
+				background-color: white;
+			}
+			#avatar {
+				position: absolute;
+				left: 420px;
 			}
 			.header {
 				position: fixed;
@@ -15,11 +19,9 @@
 				top: 0px;
 				left: 0px;
 				background-color: white;
-				background: linear-gradient(
-					white 0%,
-					white 33%,
-					#3b5d83 100%
-				);
+			}
+			.header .logo {
+				vertical-align: middle;
 			}
 			.description {
 				margin-top: 8px;
@@ -27,6 +29,8 @@
 			}
 			.header .title {
 				font-size: 1.6em;
+				vertical-align: middle;
+				display: inline;
 			}
 			.header div {
 				padding: 3px;
@@ -38,7 +42,7 @@
 				text-align: center;
 			}
 			.content {
-				padding-top: 192px;
+				padding-top: 78px;
 				margin-left: 8px;
 				margin-right: 8px;
 			}
@@ -72,8 +76,7 @@
 				clear: both;
 			}
 			.box {
-				border-style: solid;
-				border-width: 1px;
+				border-style: none;
 				padding: 3px;
 				margin-top: 8px;
 				margin-bottom: 8px;
@@ -83,10 +86,10 @@
 				padding-right: 8px;
 				border-radius: 4px;
 				max-width: 960px;
-				background-color: #e3f2f0;
+				background-color: #8fa7b9; /*#e3f2f0;*/
 			}
 			.box:hover {
-				background-color:  #8fa7b9;
+				background-color: #3b5d83;
 			}
 			a:link {
 				text-decoration:none;
@@ -100,30 +103,19 @@
 				.desktop {
 					display: none;
 				}
-				.header {
-					background: linear-gradient(
-							white 0%,
-							white 50%,
-							#3b5d83 100%
-					);
-				}
 				.left, .right {
 					width: 40% !important;
 				}
 				.center {
 					width: 20% !important;
 				}
-				.content {
-					padding-top: 136px;
-				}
 			}
 		</style>
 	</head>
 	<body>
 		<header class="header"><div>
-			<img src="https://avatars0.githubusercontent.com/u/3503805?s=48">
-			<div class="title">IBM JavaScript Projects</div>
-			<div class="desktop">IBM-sponsored JavaScript projects</div>
+			<div><img class="logo" src="https://avatars0.githubusercontent.com/u/3503805?s=48"><div class="title">IBM JavaScript Projects</div></div>
+			<!--<div class="desktop">IBM-sponsored JavaScript projects</div>-->
 		</div></header>
 		<div class="content">
 			<a href="http://github.com/ibm-js/delite"><div class="box">
