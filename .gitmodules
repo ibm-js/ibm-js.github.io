@@ -37,3 +37,6 @@
 [submodule "libraries/master/requirejs-dplugins"]
 	path = libraries/master/requirejs-dplugins
 	url = https://github.com/ibm-js/requirejs-dplugins.git
+[submodule "libraries/master/liaison"]
+	path = libraries/master/liaison
+	url = https://github.com/ibm-js/liaison.git
