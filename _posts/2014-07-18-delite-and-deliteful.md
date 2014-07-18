@@ -58,7 +58,7 @@ specifications and build on top of a set of higher level interfaces that provide
 looking for, rather than redesigning them each time you build a new element.
 
 For this reason, delite provides a set of features on top of standards that make easier for you to build advanced UI elements. 
-Typical example are JavaScript AMD modules for managing your element selection state, access to data or form value. We 
+Typical examples are JavaScript AMD modules for managing your element selection state, access to data or form value. We
 also provide theming management, allowing your element to automatically switch CSS theming based on its runtime
 environment.
 
