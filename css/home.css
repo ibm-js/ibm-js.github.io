@@ -1,0 +1,107 @@
+body {
+	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	line-height: 1.4;
+	line-height: 1.6;
+	background-color: white;
+}
+#avatar {
+	position: absolute;
+	left: 420px;
+}
+.header {
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: white;
+}
+.header .logo {
+	vertical-align: middle;
+}
+.description {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.header .title {
+	font-size: 1.6em;
+	vertical-align: middle;
+	display: inline;
+}
+.header div {
+	padding: 3px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1024px;
+	text-align: center;
+}
+.content {
+	padding-top: 78px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+.title {
+	font-size: 1.2em;
+}
+.title, .center {
+	text-align: center;
+}
+.project {
+	font-weight: bold;
+}
+.left, .center, .right {
+	width: 25%;
+	font-style: italic;
+}
+.left {
+	float: left;
+}
+.center {
+	float: left;
+}
+.right {
+	float: right;
+	text-align: right;
+}
+.clearfix:after {
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both;
+}
+.box {
+	border-style: none;
+	padding: 3px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 8px;
+	padding-right: 8px;
+	border-radius: 4px;
+	max-width: 960px;
+	background-color: #8fa7b9; /*#e3f2f0;*/
+}
+.box:hover {
+	background-color: #3b5d83;
+}
+a:link {
+	text-decoration:none;
+	color: inherit;
+}
+a:visited {
+	text-decoration:none;
+	color: inherit;
+}
+@media screen and (max-width: 768px) {
+	.desktop {
+		display: none;
+	}
+	.left, .right {
+		width: 40% !important;
+	}
+	.center {
+		width: 20% !important;
+	}
+}
