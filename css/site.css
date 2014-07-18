@@ -1,0 +1,20 @@
+#avatar {
+	width: 36px;
+	height: 36px;
+	margin-top: -7px;
+}
+
+.social {
+	float: right;
+	margin-top: 12px;
+}
+
+.hidden {
+	display: none;
+}
+
+body {
+	font-family: Verdana, Lucida Grande, sans-serif;
+	font-size: 16px;
+}
+
