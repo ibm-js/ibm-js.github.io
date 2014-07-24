@@ -59,7 +59,7 @@
     name: "liaison"
     description: "Data binding library that aims for emerging web standards compatibility, can we used to power delite elements"
     release: "no release"
-    url: "http://github.com/ibm-js/liaison"
+    url: "http://ibm-js.github.io/liaison"
     travis: "https://travis-ci.org/ibm-js/liaison"
     status: "experimental"
   - 
