@@ -5,7 +5,7 @@ pygments: true
 redcarpet:
   extensions: ["tables"]
 
-include: ["libraries/master/dojo/_base", "libraries/master/dojo/_firebug"]
+include: [ "_base", "_firebug", "_loader.js", "_utils.js" ]
 
 excerpt_separator: <!--more-->
 paginate: 4
