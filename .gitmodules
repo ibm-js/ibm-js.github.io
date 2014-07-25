@@ -43,3 +43,6 @@
 [submodule "libraries/master/decor"]
 	path = libraries/master/decor
 	url = https://github.com/ibm-js/decor.git
+[submodule "libraries/master/dtreemap-build"]
+	path = libraries/master/dtreemap-build
+	url = https://github.com/ibm-js/dtreemap-build.git
