@@ -46,3 +46,18 @@
 [submodule "libraries/master/dtreemap-build"]
 	path = libraries/master/dtreemap-build
 	url = https://github.com/ibm-js/dtreemap-build.git
+[submodule "libraries/master/delite-build"]
+	path = libraries/master/delite-build
+	url = https://github.com/ibm-js/delite-build.git
+[submodule "libraries/master/deliteful-build"]
+	path = libraries/master/deliteful-build
+	url = https://github.com/ibm-js/deliteful-build.git
+[submodule "libraries/master/decor-build"]
+	path = libraries/master/decor-build
+	url = https://github.com/ibm-js/decor-build.git
+[submodule "libraries/master/dpointer-build"]
+	path = libraries/master/dpointer-build
+	url = https://github.com/ibm-js/dpointer-build.git
+[submodule "libraries/master/ecma402-build"]
+	path = libraries/master/ecma402-build
+	url = https://github.com/ibm-js/ecma402-build.git
