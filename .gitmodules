@@ -61,3 +61,6 @@
 [submodule "libraries/master/ecma402-build"]
 	path = libraries/master/ecma402-build
 	url = https://github.com/ibm-js/ecma402-build.git
+[submodule "libraries/master/dcolor-build"]
+	path = libraries/master/dcolor-build
+	url = https://github.com/ibm-js/dcolor-build.git
