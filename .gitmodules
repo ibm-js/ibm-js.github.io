@@ -64,3 +64,6 @@
 [submodule "libraries/master/dcolor-build"]
 	path = libraries/master/dcolor-build
 	url = https://github.com/ibm-js/dcolor-build.git
+[submodule "libraries/master/requirejs-domready"]
+	path = libraries/master/requirejs-domready
+	url = https://github.com/requirejs/domReady.git
