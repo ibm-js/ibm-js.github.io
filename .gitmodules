@@ -67,3 +67,6 @@
 [submodule "libraries/master/requirejs-domready"]
 	path = libraries/master/requirejs-domready
 	url = https://github.com/requirejs/domReady.git
+[submodule "libraries/master/liaison-build"]
+	path = libraries/master/liaison-build
+	url = https://github.com/ibm-js/liaison-build.git
