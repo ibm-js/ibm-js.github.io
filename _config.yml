@@ -16,6 +16,10 @@ authors:
         name: Christophe Jolif
         url: https://github.com/cjolif
         gravatar: ca9800fc6cacd919e7dbef9676e2c5f1
+    AdrianVasiliu:
+        name: Adrian Vasiliu
+        url: https://github.com/AdrianVasiliu
+        gravatar: 3fcefe4617c2bd6677f165b732e8ff81
 
 defaults:
   -
