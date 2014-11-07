@@ -40,7 +40,7 @@ attachedCallback: function () {
 }
 ```
 
-Depending on the indeterminate timing that custom elements are downloade and registered, and `my-ui-element.attachedCallback()` might try to access the `a-data-store-element` before it has actually been upgraded to a custom element. For this reason the store element might not be "ready" to be used leading to incorrect setup of `my-ui-element`.
+Depending on the indeterminate timing that custom elements are downloaded and registered, and `my-ui-element.attachedCallback()` might try to access the `a-data-store-element` before it has actually been upgraded to a custom element. For this reason the store element might not be "ready" to be used leading to incorrect setup of `my-ui-element`.
 
 For this reason it would be useful to be notified when an element has really been created (and attached) as an actual custom element so that other elements can react to this. 
 
@@ -69,6 +69,6 @@ attachedCallback: function () {
 }
 ```
 
-Ideally I think this should not be a delite-specific event but that Custom Element specification should provide a similar event so that created & attached callback can notify other elements of their execution.
+Ideally I think this should not be a delite-specific event but that Custom Elements specification should provide a similar event so that created & attached callback can notify other elements of their execution.
 
-What do you think? Is that something you see missing in Custom Element specification or is that just me needing this event to coordinate elements creation & attachment? 
+What do you think? Is that something you see missing in Custom Elements specification or is that just me needing this event to coordinate elements creation & attachment? 
