@@ -4,6 +4,7 @@
     description: "UI widgets core infrastructure for building enterprise-class, multi-channel HTML custom elements embracing emerging Web standards. "
     release: "0.5.1"
     url: "http://ibm-js.github.io/delite"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/delite"
     status: "experimental"
   - 
@@ -11,6 +12,7 @@
     description: "Set of enterprise-class, multi-channel UI Widgets custom elements, based on delite"
     release: "0.5.1"
     url: "http://ibm-js.github.io/deliteful"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/deliteful"
     status: "experimental"
   - 
@@ -18,6 +20,7 @@
     description: "Utilities and base modules"
     release: "0.4.0"
     url: "http://ibm-js.github.io/decor"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/decor"
     status: "experimental"
   - 
@@ -25,6 +28,7 @@
     description: "AMD-based JavaScript module which provides W3C Pointer Events \"shim\" and adds click/dbl click normalization"
     release: "0.4.0"
     url: "http://github.com/ibm-js/dpointer"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/dpointer"
     status: "experimental"
   - 
@@ -32,6 +36,7 @@
     description: "AMD i18n & maybe plugins for RequireJS"
     release: "0.4.0"
     url: "http://github.com/ibm-js/requirejs-dplugins"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/requirejs-dplugins"
     status: "experimental"
   - 
@@ -39,6 +44,7 @@
     description: "Grunt plugin providing several useful independant and reusable tasks to build AMD applications"
     release: "0.8.1"
     url: "http://github.com/ibm-js/grunt-amd-build"
+    npm: "https://www.npmjs.org/package/grunt-amd-build"
     travis: "https://travis-ci.org/ibm-js/grunt-amd-build"
     status: "experimental"
   - 
@@ -46,6 +52,7 @@
     description: "Yeoman generator for building AMD applications, based on grunt-amd-build"
     release: "0.2.1"
     url: "http://github.com/ibm-js/generator-amd-build"
+    npm: "https://www.npmjs.org/package/generator-amd-build"
     travis: "https://travis-ci.org/ibm-js/generator-amd-build"
     status: "experimental"
   - 
@@ -53,6 +60,7 @@
     description: "Yeoman generator for delite custom elements"
     release: "0.3.2"
     url: "http://github.com/ibm-js/generator-delite-element"
+    npm: "https://www.npmjs.org/package/generator-delite-element"
     travis: "https://travis-ci.org/ibm-js/generator-delite-element"
     status: "experimental"
   - 
@@ -60,6 +68,7 @@
     description: "Yeoman generator for deliteful apps"
     release: "0.2.1"
     url: "http://github.com/ibm-js/generator-deliteful-app"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/generator-deliteful-app"
     status: "experimental"
   - 
@@ -67,6 +76,7 @@
     description: "ECMA-402 JavaScript Internationalization API \"shim\""
     release: "0.2.6"
     url: "http://github.com/ibm-js/ecma402"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/ecma402"
     status: "experimental"
   - 
@@ -74,6 +84,7 @@
     description: "Data binding library that aims for emerging web standards compatibility, can we used to power delite elements"
     release: "0.1.5"
     url: "http://ibm-js.github.io/liaison"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/liaison"
     status: "experimental"
   - 
@@ -81,6 +92,7 @@
     description: "Library for color manipulation and color models"
     release: "0.1.3"
     url: "http://github.com/ibm-js/dcolor"
+    bower: ""
     travis: "https://travis-ci.org/ibm-js/dcolor"
     status: "experimental"
 

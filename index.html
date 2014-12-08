@@ -9,7 +9,15 @@ layout: index
 		<div class="clearfix">
 			<div class="left desktop">status: {{project.status}}</div>
 			<div class="center"><span class="desktop">latest release: </span>{{project.release}}</div>
-			<div class="center"><img src="http://bower.io/img/bower-logo.png" style="width: 24px; height: 24px"></div>
+			<div class="center">
+				{% if project.bower %}
+					<img src="http://bower.io/img/bower-logo.png" style="width: 24px; height: 24px">
+				{% endif %}
+
+				{% if project.npm %}
+					<a href="{{project.npm}}"><img src="https://www.npmjs.org/static/img/npm.png" style="width: 60px; height: 24px"></a>
+				{% endif %}
+			</div>
 			<a class="right" href="{{project.travis}}"><img src="{{project.travis}}.png?branch=master" alt="Build Status"></a>
 		</div>
 </div></a>
