@@ -99,6 +99,15 @@
 		"status": "experimental"
 	},
 	{
+		"name": "dtreemap",
+		"description": "A delite-based TreeMap widget.",
+		"release": "0.2.1",
+		"url": "http://ibm-js.github.io/dtreemap",
+		"bower": "",
+		"travis": "https://travis-ci.org/ibm-js/dtreemap",
+		"status": "experimental"
+	},
+	{
 		"name": "dcolor",
 		"description": "Library for color manipulation and color models",
 		"release": "0.1.3",
