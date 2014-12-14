@@ -21,6 +21,10 @@ authors:
         url: https://github.com/AdrianVasiliu
         gravatar: 3fcefe4617c2bd6677f165b732e8ff81
 
+name: delite, deliteful & co blog
+description: All about our journey building delite, deliteful and other JavaScript Front End Open Source projects
+url: http://ibm-js.github.io
+
 defaults:
   -
     scope:
