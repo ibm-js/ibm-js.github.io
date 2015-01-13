@@ -38,7 +38,7 @@
 	{
 		"name": "requirejs-dplugins",
 		"description": "AMD i18n & maybe plugins for RequireJS",
-		"release": "0.4.0",
+		"release": "0.4.2",
 		"url": "http://github.com/ibm-js/requirejs-dplugins",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/requirejs-dplugins",
