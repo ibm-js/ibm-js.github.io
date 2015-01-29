@@ -10,7 +10,7 @@ That said we are sometimes facing some limitations with custom elements that are
 
 ---
 
-The most common one, that was already mentioned by others in the past, is the lack of namespacing or scoping for the elements. Let's say someone comes up with a `d-list` custom element just as [we did](http://ibm-js.github.io/deliteful/docs/master/list/List.html), then any application developer bringing the two pieces of JavaScript in the application will have a clash between the two elements. Fortunately an error will be thrown when the second element is registered and some workarounds at application level like redefinition of the `Document.registerElement()` method can deal with that. However that workarounds are not satisfactory as they don't really solve the root issue of the specification giving room to potential registration clashes. 
+The most common one, that was already mentioned by others in the past, is the lack of namespacing or scoping for the elements. Let's say someone comes up with a `d-list` custom element just as [we did](http://ibm-js.github.io/deliteful/docs/0.6.0/list/List.html), then any application developer bringing the two pieces of JavaScript in the application will have a clash between the two elements. Fortunately an error will be thrown when the second element is registered and some workarounds at application level like redefinition of the `Document.registerElement()` method can deal with that. However that workarounds are not satisfactory as they don't really solve the root issue of the specification giving room to potential registration clashes. 
 
 This lack of namespace management is kind of contradicting what I think should be the ultimate custom element role, that is interoperability.
 
