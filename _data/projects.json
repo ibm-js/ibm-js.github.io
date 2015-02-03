@@ -2,7 +2,7 @@
 	{
 		"name": "delite",
 		"description": "UI widgets core infrastructure for building enterprise-class, multi-channel HTML custom elements embracing emerging Web standards. ",
-		"release": "0.5.1",
+		"release": "0.6.0",
 		"url": "http://ibm-js.github.io/delite",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/delite",
@@ -11,7 +11,7 @@
 	{
 		"name": "deliteful",
 		"description": "Set of enterprise-class, multi-channel UI Widgets custom elements, based on delite",
-		"release": "0.5.1",
+		"release": "0.6.0",
 		"url": "http://ibm-js.github.io/deliteful",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/deliteful",
@@ -20,7 +20,7 @@
 	{
 		"name": "decor",
 		"description": "Utilities and base modules",
-		"release": "0.4.0",
+		"release": "0.5.0",
 		"url": "http://ibm-js.github.io/decor",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/decor",
@@ -29,7 +29,7 @@
 	{
 		"name": "dpointer",
 		"description": "AMD-based JavaScript module which provides W3C Pointer Events \"shim\" and adds click/dbl click normalization",
-		"release": "0.4.0",
+		"release": "0.5.0",
 		"url": "http://github.com/ibm-js/dpointer",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/dpointer",
@@ -38,8 +38,8 @@
 	{
 		"name": "requirejs-dplugins",
 		"description": "AMD i18n & maybe plugins for RequireJS",
-		"release": "0.4.2",
-		"url": "http://github.com/ibm-js/requirejs-dplugins",
+		"release": "0.5.0",
+		"url": "http://ibm-js.github.io/requirejs-dplugins",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/requirejs-dplugins",
 		"status": "experimental"
@@ -47,7 +47,7 @@
 	{
 		"name": "grunt-amd-build",
 		"description": "Grunt plugin providing several useful independant and reusable tasks to build AMD applications",
-		"release": "0.8.1",
+		"release": "0.8.2",
 		"url": "http://github.com/ibm-js/grunt-amd-build",
 		"npm": "https://www.npmjs.org/package/grunt-amd-build",
 		"travis": "https://travis-ci.org/ibm-js/grunt-amd-build",
@@ -65,7 +65,7 @@
 	{
 		"name": "generator-delite-element",
 		"description": "Yeoman generator for delite custom elements",
-		"release": "0.3.2",
+		"release": "0.3.3",
 		"url": "http://github.com/ibm-js/generator-delite-element",
 		"npm": "https://www.npmjs.org/package/generator-delite-element",
 		"travis": "https://travis-ci.org/ibm-js/generator-delite-element",
@@ -74,7 +74,7 @@
 	{
 		"name": "generator-deliteful-app",
 		"description": "Yeoman generator for deliteful apps",
-		"release": "0.2.1",
+		"release": "0.2.2",
 		"url": "http://github.com/ibm-js/generator-deliteful-app",
 		"npm": "https://www.npmjs.org/package/generator-deliteful-app",
 		"travis": "https://travis-ci.org/ibm-js/generator-deliteful-app",
@@ -83,7 +83,7 @@
 	{
 		"name": "ecma402",
 		"description": "ECMA-402 JavaScript Internationalization API \"shim\"",
-		"release": "0.2.6",
+		"release": "0.3.0",
 		"url": "http://github.com/ibm-js/ecma402",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/ecma402",
@@ -101,7 +101,7 @@
 	{
 		"name": "dtreemap",
 		"description": "A delite-based TreeMap widget.",
-		"release": "0.2.1",
+		"release": "0.3.0",
 		"url": "http://ibm-js.github.io/dtreemap",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/dtreemap",
