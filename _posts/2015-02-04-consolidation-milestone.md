@@ -31,6 +31,7 @@ Thanks to anyone that contributed to this milestone, in particular, Adrian, Bill
 <!--more-->
 
 Note that we have a number of incompatibilities:
+
   * at delite level, the move to ES6 Promise has forced changes on the `delite-display-load` event API for `DisplayContainer`
   * still for delite, the `Widget.startup()` method has been deprecated. For programmatically created widgets we encourage
   you to use `placeAt()` instead.
