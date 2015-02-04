@@ -28,7 +28,7 @@ what existed before. Hopefully next milestone should bring us new widgets like [
 
 Thanks to anyone that contributed to this milestone, in particular, Adrian, Bill, Clement, Damien, Ed, Lee, Semion and Youcef!
 
- <!--more-->
+<!--more-->
 
 Note that we have a number of incompatibilities:
   * at delite level, the move to ES6 Promise has forced changes on the `delite-display-load` event API for `DisplayContainer`
