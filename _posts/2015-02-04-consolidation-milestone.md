@@ -13,7 +13,7 @@ plugin of the [requirejs-dplugins](http://ibm-js.github.io/requirejs-dplugins/in
 to the native ES6 implementation or to the [Lie](https://github.com/calvinmetcalf/lie) JavaScript implementation 
 depending on native browser support presence.
 * We extended the use of jQuery for DOM manipulation from delite to deliteful.
-* We also added a first delite [tutorial](http://ibm-js.github.io/tutorial/docs/0.6.0/index.html) on how to build you own custom element widget with delite.
+* We also added a first delite [tutorial](http://ibm-js.github.io/delite/docs/0.6.0/tutorial/beginner.html ) on how to build you own custom element widget with delite.
 * We improved documentation and added a documentation page on [styling deliteful elements](http://ibm-js.github.io/deliteful/docs/0.6.0/styling.html) 
 * We have various bidirectional text improvements both at delite & deliteful level.
 * Combobox is finally converging with keyboard support as well as multi channel policy support based on the new 
