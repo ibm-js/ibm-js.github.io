@@ -2,7 +2,7 @@
 	{
 		"name": "delite",
 		"description": "UI widgets core infrastructure for building enterprise-class, multi-channel HTML custom elements embracing emerging Web standards. ",
-		"release": "0.6.0",
+		"release": "0.8.1",
 		"url": "http://ibm-js.github.io/delite",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/delite",
@@ -11,7 +11,7 @@
 	{
 		"name": "deliteful",
 		"description": "Set of enterprise-class, multi-channel UI Widgets custom elements, based on delite",
-		"release": "0.6.0",
+		"release": "0.8.1",
 		"url": "http://ibm-js.github.io/deliteful",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/deliteful",
@@ -20,7 +20,7 @@
 	{
 		"name": "decor",
 		"description": "Utilities and base modules",
-		"release": "0.5.0",
+		"release": "0.7.0",
 		"url": "http://ibm-js.github.io/decor",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/decor",
@@ -29,7 +29,7 @@
 	{
 		"name": "dpointer",
 		"description": "AMD-based JavaScript module which provides W3C Pointer Events \"shim\" and adds click/dbl click normalization",
-		"release": "0.5.0",
+		"release": "0.5.1",
 		"url": "http://github.com/ibm-js/dpointer",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/dpointer",
@@ -38,7 +38,7 @@
 	{
 		"name": "requirejs-dplugins",
 		"description": "AMD i18n & maybe plugins for RequireJS",
-		"release": "0.5.0",
+		"release": "0.6.0",
 		"url": "http://ibm-js.github.io/requirejs-dplugins",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/requirejs-dplugins",
@@ -83,7 +83,7 @@
 	{
 		"name": "ecma402",
 		"description": "ECMA-402 JavaScript Internationalization API \"shim\"",
-		"release": "0.3.0",
+		"release": "1.0.1",
 		"url": "http://github.com/ibm-js/ecma402",
 		"bower": "",
 		"travis": "https://travis-ci.org/ibm-js/ecma402",
